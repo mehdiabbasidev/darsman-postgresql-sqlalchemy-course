@@ -1,0 +1,3 @@
+CREATE DATABASE insighthub 
+    WITH
+    ENCODING = 'UTF8';
